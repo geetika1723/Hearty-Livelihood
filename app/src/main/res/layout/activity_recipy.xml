@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RecipyActivity"
+    android:background="@color/darkPink"
+    android:orientation="vertical"
+    android:weightSum="2">
+
+    <androidx.appcompat.widget.Toolbar
+        android:layout_width="match_parent"
+        android:layout_height ="wrap_content"
+        app:titleTextColor ="#000"
+        android:background="#e6e6e6"
+        android:id="@+id/toolbar"
+        app:popupTheme="@style/Theme.AppCompat.DayNight.NoActionBar">
+    </androidx.appcompat.widget.Toolbar>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.6"
+        android:orientation="vertical"
+        android:padding="5dp">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@drawable/hr"
+            android:scaleType="fitXY"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1.4"
+        android:padding="10dp">
+        <ListView
+            android:id="@+id/listviewRecipe"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:divider="#C0C0C0"
+            android:background="@color/purple_500"
+            android:dividerHeight="1dp"/>
+    </LinearLayout>
+</LinearLayout>

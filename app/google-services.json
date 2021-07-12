@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "609837983426",
+    "project_id": "hearty-livelihood",
+    "storage_bucket": "hearty-livelihood.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609837983426:android:582c138c32982c9966fd5b",
+        "android_client_info": {
+          "package_name": "com.example.heartylivelihood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609837983426-hkic757m7gn3qfk1gd36e7bac16p5t12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXdtH5-AVAnxzGxqCtIyZ9IAW8YBKVSak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609837983426-hkic757m7gn3qfk1gd36e7bac16p5t12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

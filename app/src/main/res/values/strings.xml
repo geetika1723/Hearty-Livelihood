@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Hearty  Livelihood</string>
+    <string name="rightTime">THE RIGHT TIME: As per studies, lunch time is the best time to have rice. This is due to two factors. Firstly, during daytime, our metabolism is faster and our body will digest all heavy healthy foods. <br />
+        Since post breakfast, this is the time your body feels hungry and needs energy to keep you going for the next 8-10 hours.<br />Secondly, daytime is also the time your productivity is most engaged. You need to fuel this energy in the right manner.The carbs in rice are needed by our body to increase our energy level.
+    </string>
+    <string name="worstTime">Worst Time To Eat- Dinnertime<br />Rice can lead to unwanted weight gain</string>
+    <string name="consume">1. Steaming or boiling rice is the best way of cooking them, due to the elimination of any high-fat vegetable oils.<br />
+        2. Team your cooked rice with blanched or stir-fried high-fibre vegetables to make your meal more satiating and healthy.<br />
+        3. Add some cumin seeds (jeera) to your steamed rice. Cumin has been known to control blood pressure and blood sugar levels and may also add flavour and taste to your rice dish.<br />
+    4. Add some coconut oil to the water you\'re going to cook your rice in. Researchers have recently found out that adding coconut oil to white rice while cooking can increase the amount of resistant starch in it and slash the amount of calories in your dish.<br />
+    5. Add a few cloves (laung) to your pressure cooker while cooking the rice. Clove is also helpful in regulating blood sugar and it also contains antioxidants to fight inflammation.</string>
+    <string name="benifit">Rice can be part of a balanced diet, particularly if you choose the unprocessed, brown rice varieties. Many of the health benefits of rice come from the vitamins and minerals that it provides.
+        <br />1.Supports Bones, Nerves, and Muscles<br />
+        2.Improves Colon Health<br />
+        3.Lowers Risk of Heart Disease<br />
+        4.Safe for People with Celiac Disease<br />
+        5.Provides Quick Energy
+    </string>
+    <string name="Baking">1.In a bowl, add condensed milk and hung curd. Mix it well.<br/>
+        2.Now, add cream and mix again.<br/>
+        3.Bake at 180 degree for 20 minutes.<br/>
+        4.Add mango chunks or any other fruit on the top of the baked yogurt bowl and dig in!</string>
+    <string name="Ingredients">1 Cup Hung Curd<br/>
+        1/2 cup Condensed Milk<br/>
+        1/4 cup Cream<br/>
+        1/4 cup Mango chunks</string>
+    <string name="title_activity_custom__lose">Custom_Lose</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_lose_info">LoseInfo</string>
+    <string name="title_activity_custom__recipe">Custom_Recipe</string>
+</resources>
